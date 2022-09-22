@@ -43,4 +43,4 @@ THEN I find a concise, descriptive title
 ## Link
 
 <!-- Link to external website. Opens in New tab -->
-<a href="https://www.google.com/" target="_blank" >Placeholder Link</a>
+Click Here: <a href="https://mateo-wallace.github.io/Module-1-Challenge-Repo/" target="_blank" >Horiseon Website</a>
