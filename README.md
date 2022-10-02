@@ -36,11 +36,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
-## Image of Website
-![image of website](assets/images/website-image.png)
-
 ## Link
 
 <!-- Link to external website. Opens in New tab -->
-Click Here: <a href="https://mateo-wallace.github.io/Module-1-Challenge-Repo/" target="_blank" >Horiseon Website</a>
+Click Here: <a href="https://mateo-wallace.github.io/M1-Horiseon-Refactor/" target="_blank" >Horiseon Website</a>
+
+## Image of Website
+![image of website](assets/images/website-image.png)
